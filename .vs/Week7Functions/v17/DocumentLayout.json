@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roman\\source\\repos\\Week7Functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A33E6E8-DAE1-4060-8703-A94E53377526}|DisplayArrayElementsFunction\\DisplayArrayElementsFunction.csproj|c:\\users\\roman\\source\\repos\\week7functions\\displayarrayelementsfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A33E6E8-DAE1-4060-8703-A94E53377526}|DisplayArrayElementsFunction\\DisplayArrayElementsFunction.csproj|solutionrelative:displayarrayelementsfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2975DDBB-441D-49A6-A8EC-111EB7A728AC}|CalculatorWithFunctions\\CalculatorWithFunctions.csproj|c:\\users\\roman\\source\\repos\\week7functions\\calculatorwithfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2975DDBB-441D-49A6-A8EC-111EB7A728AC}|CalculatorWithFunctions\\CalculatorWithFunctions.csproj|solutionrelative:calculatorwithfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9DB1E3-C137-4E72-A373-03271D1E3AB9}|Week7Functions\\Week7Functions.csproj|c:\\users\\roman\\source\\repos\\week7functions\\week7functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9DB1E3-C137-4E72-A373-03271D1E3AB9}|Week7Functions\\Week7Functions.csproj|solutionrelative:week7functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Week7Functions\\DisplayArrayElementsFunction\\Program.cs",
+              "RelativeDocumentMoniker": "DisplayArrayElementsFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Week7Functions\\DisplayArrayElementsFunction\\Program.cs",
+              "RelativeToolTip": "DisplayArrayElementsFunction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:41:07.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Week7Functions\\CalculatorWithFunctions\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorWithFunctions\\Program.cs",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Week7Functions\\CalculatorWithFunctions\\Program.cs",
+              "RelativeToolTip": "CalculatorWithFunctions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:17:07.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Week7Functions\\Week7Functions\\Program.cs",
+              "RelativeDocumentMoniker": "Week7Functions\\Program.cs",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Week7Functions\\Week7Functions\\Program.cs",
+              "RelativeToolTip": "Week7Functions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:00:31.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
